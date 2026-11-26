@@ -27,6 +27,10 @@ Orders over £1,000 are only 9% of all orders, but they bring in 44% of the mone
 
 ![Order size](images/order_size_share.png)
 
+What do these big orders contain? No single product carries them. The top product, the **Regency Cakestand 3 Tier**, is in 28% of big orders, but brings only about 2% of their money. Big buyers mix many different products in one order.
+
+![Products in big orders](images/wholesale_products.png)
+
 ### 4. A small group of customers matters the most
 The top 20% of customers bring in 77% of the money. The top 1% alone bring in 32%.
 
@@ -47,10 +51,24 @@ A normal order from outside the UK is about £421, compared to £295 from the UK
 
 ---
 
+## Products
+The data has no product costs, so I can't measure real profit. Instead I used **net sales**: money from sales minus money from cancelled orders.
+
+### 8. The best sellers
+The top product is the **Regency Cakestand 3 Tier** (about £314k), then the **White Hanging Heart T-Light Holder** (£252k) and **Party Bunting** (£147k). Most of the top 10 are home decoration, party and Christmas items.
+
+![Top products](images/top_products.png)
+
+### 9. Most products sell very little
+About 1 in 5 products bring in 78% of the money. The bottom half of the products bring in only 4% together. 889 products made less than £100 in two years.
+
+---
+
 ## What I Recommend
 1. **Bring back the 405 customers who stopped buying.** Contact them with an offer before the busy season starts in September.
 2. **Get new customers to buy a second time.** Follow up with them in their first month.
 3. **Take care of the biggest customers.** Give the top customers a dedicated contact person.
+4. **Always keep the best-selling products in stock**, especially before September, and review the products that almost never sell.
 
 ---
 
